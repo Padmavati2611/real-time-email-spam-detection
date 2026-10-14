@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Secrets and OAuth credentials (CRITICAL: Never commit credentials)
+.env
+.env.local
+credentials.json
+client_secret*.json
+token.json
+token.pickle
+
+# Model weights
+models/*.joblib
+!models/.gitkeep
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output reports
+outputs/temp/

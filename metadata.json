@@ -1,0 +1,6 @@
+{
+  "name": "SpamGuard SMS - ML Spam Detection",
+  "description": "Classify SMS messages as spam or legitimate using TF-IDF numerical vectorization, Naive Bayes, and Logistic Regression with interactive model evaluation and scikit-learn export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
