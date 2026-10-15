@@ -66,5 +66,8 @@ The system classifies an email into one of two categories:
 
 GitHub: [Padmavati2611](https://github.com/Padmavati2611)
 
+live website:
+https://real-time-email-spam-detection.onrender.com/
+
 ## ⭐ Conclusion
 This project demonstrates how machine learning can be used to classify email messages and help identify potential spam.
